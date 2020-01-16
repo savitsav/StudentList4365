@@ -3,7 +3,7 @@ package studentlist;
 import java.util.Scanner;
 
 /**
- * This class is our first Example class for review 
+ * This class is our first Example class for review  changed
  *
  * @author Paul Bonenfant
  */
