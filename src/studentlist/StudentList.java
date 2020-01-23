@@ -6,6 +6,7 @@ import java.util.Scanner;
  * This class is our first Example class for review  changed
  *
  * @author Paul Bonenfant
+ *modified
  */
 public class StudentList {
 
