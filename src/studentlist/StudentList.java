@@ -47,7 +47,7 @@ public class StudentList {
         
         System.out.println("Now we create our Students");
         
-        Student[] students = new Student[2];
+        Student[] students = new Student[3];
         
         for(int i = 0; i < 3; i++) {
             System.out.println("Enter Student Name");    
